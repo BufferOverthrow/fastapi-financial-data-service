@@ -124,8 +124,8 @@ Potential areas for further development include:
 
 ## Contact
 
-Wynndyll Montero
-https://www.linkedin.com/in/codealchemy/
+Wynndyll Montero  
+https://www.linkedin.com/in/codealchemy/  
 https://github.com/BufferOverthrow
 
 ---
